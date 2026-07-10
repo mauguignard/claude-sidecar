@@ -1,0 +1,3 @@
+# Compiled binaries (make build / make app).
+/claude-sidecar
+/build/
